@@ -1,0 +1,9 @@
+{"range": 	[
+				{"name": "Shovel", "sell": 50,"cost": 20, "id": 1, "strength": 10},
+				{"name": "Broom", "sell": 25,"cost": 10, "id": 2, "strength": 10}
+			], 
+"range_id": [
+				1,
+				2
+			]
+}
