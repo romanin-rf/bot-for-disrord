@@ -5,9 +5,6 @@ from discord.ext.commands import Bot
 prefixUser = "="
 Bot = commands.Bot( command_prefix = prefixUser )
 
-# time.strftime("%B:%d:%Y", time.localtime())
-# Команды
-
 @Bot.command(pass_context = True)
 async def удалить(ctx, amount = 1):
 	await ctx.channel.purge(limit = 1)
