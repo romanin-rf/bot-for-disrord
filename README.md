@@ -1,7 +1,7 @@
 # Example bot for Discord
 
 ### Download example
-Here is the link to download the zip archive: [download](https://github.com/romanin-rf/bot-for-discord.py/archive/master.zip)
+Here is the link to download the zip archive: [download](https://github.com/romanin-rf/bot-for-disrord/archive/refs/heads/master.zip)
 
 ### License agreement
 This example should be written by Roman Slabitsky to help novice programmers. 
